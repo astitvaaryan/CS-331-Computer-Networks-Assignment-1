@@ -1,0 +1,25 @@
+Custom Header (HHMMSSID)       | Domain Name                              | Assigned IP Address
+----------------------------------------------------------------------------------------------------
+01160200                       | apple.com                                | 192.168.1.11
+01160201                       | _apple-mobdev._tcp.local                 | 192.168.1.12
+01160202                       | _apple-mobdev._tcp.local                 | 192.168.1.13
+01160203                       | facebook.com                             | 192.168.1.14
+01160204                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.15
+01160205                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.11
+01160206                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.12
+01160207                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.13
+01160208                       | amazon.com                               | 192.168.1.14
+01160209                       | _apple-mobdev._tcp.local                 | 192.168.1.15
+01160210                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.11
+01160211                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.12
+01160212                       | twitter.com                              | 192.168.1.13
+01160213                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.14
+01160214                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.15
+01160215                       | _apple-mobdev._tcp.local                 | 192.168.1.11
+01160216                       | _apple-mobdev._tcp.local                 | 192.168.1.12
+01160217                       | wikipedia.org                            | 192.168.1.13
+01160218                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.14
+01160219                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.15
+01160220                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.11
+01160221                       | Brother MFC-7860DW._pdl-datastream._tcp.local | 192.168.1.12
+01160222                       | stackoverflow.com                        | 192.168.1.13
